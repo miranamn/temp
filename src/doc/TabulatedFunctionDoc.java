@@ -17,7 +17,7 @@ public class TabulatedFunctionDoc implements TabulatedFunction
 {
     private TabulatedFunction tb;
     private String filename;
-    private boolean modified = false;
+    private boolean modified = true;
     private boolean fileNameAssigned = false;
     FXMLMainForm FXMLController;
 
